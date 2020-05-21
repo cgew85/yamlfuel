@@ -1,0 +1,8 @@
+numberOfItems: 10000
+configuration:
+  outputFileFormat: "excel"
+fields:
+  - title: "title"
+    type: "type"
+  - title: "title"
+    type: "type"
